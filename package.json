@@ -1,8 +1,8 @@
 {
-  "title": "Clear Resume",
-  "name": "clean-resume",
+  "title": "Portfolio Anderson",
+  "name": "porfolio-anderson",
   "version": "1.0.0",
-  "description": "Clean Resume template, perfect for developers, designers and other creative professionals who want their skills and experiences displayed in a very clean and effective way. No distractions, just straight forward information ideal for a messy world full of ads we live in.",
+  "description": "Meu Portfolio profissional",
   "main": "index.js",
   "scripts": {
     "start": "node_modules/.bin/gulp watch"
@@ -18,12 +18,12 @@
     "theme",
     "template"
   ],
-  "homepage": "https://filiprastovic.com",
+  "homepage": "https://andersonfroes.github.io/Portfolio/",
   "bugs": {
-    "email": "filiporastovic@gmail.com"
+    "email": "andersonfroes@gmail.com"
   },
-  "author": "Clarity Enhanced",
-  "license": "ISC",
+  "author": "",
+  "license": "",
   "dependencies": {
     "@fortawesome/fontawesome-free": "5.9.0",
     "bootstrap": "4.3.1",
