@@ -1,7 +1,7 @@
 # Portfolio
 
 ## Bem vindo ao meu Portfolio! 
-Me Chamo Anderson Froes e sou Gestor Financeiro e futuro Desenvolvedor Front-End.
+Me chamo Anderson Froes e sou Gestor Financeiro e Programador Júnior.
 
 ### Sobre meus projetos: 
 
